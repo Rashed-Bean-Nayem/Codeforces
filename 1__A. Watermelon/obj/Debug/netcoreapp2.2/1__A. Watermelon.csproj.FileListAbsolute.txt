@@ -1,0 +1,11 @@
+E:\3.GitHub\CodeForces\1__A. Watermelon\bin\Debug\netcoreapp2.2\1__A. Watermelon.deps.json
+E:\3.GitHub\CodeForces\1__A. Watermelon\bin\Debug\netcoreapp2.2\1__A. Watermelon.runtimeconfig.json
+E:\3.GitHub\CodeForces\1__A. Watermelon\bin\Debug\netcoreapp2.2\1__A. Watermelon.runtimeconfig.dev.json
+E:\3.GitHub\CodeForces\1__A. Watermelon\bin\Debug\netcoreapp2.2\1__A. Watermelon.dll
+E:\3.GitHub\CodeForces\1__A. Watermelon\bin\Debug\netcoreapp2.2\1__A. Watermelon.pdb
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.csprojAssemblyReference.cache
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.csproj.CoreCompileInputs.cache
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.AssemblyInfoInputs.cache
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.AssemblyInfo.cs
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.dll
+E:\3.GitHub\CodeForces\1__A. Watermelon\obj\Debug\netcoreapp2.2\1__A. Watermelon.pdb

@@ -1,0 +1,10 @@
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\bin\Debug\netcoreapp2.2\3__A. Way Too Long Words.deps.json
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\bin\Debug\netcoreapp2.2\3__A. Way Too Long Words.runtimeconfig.json
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\bin\Debug\netcoreapp2.2\3__A. Way Too Long Words.runtimeconfig.dev.json
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\bin\Debug\netcoreapp2.2\3__A. Way Too Long Words.dll
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\bin\Debug\netcoreapp2.2\3__A. Way Too Long Words.pdb
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\obj\Debug\netcoreapp2.2\3__A. Way Too Long Words.csproj.CoreCompileInputs.cache
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\obj\Debug\netcoreapp2.2\3__A. Way Too Long Words.AssemblyInfoInputs.cache
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\obj\Debug\netcoreapp2.2\3__A. Way Too Long Words.AssemblyInfo.cs
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\obj\Debug\netcoreapp2.2\3__A. Way Too Long Words.dll
+E:\3.GitHub\CodeForces\3__A. Way Too Long Words\obj\Debug\netcoreapp2.2\3__A. Way Too Long Words.pdb

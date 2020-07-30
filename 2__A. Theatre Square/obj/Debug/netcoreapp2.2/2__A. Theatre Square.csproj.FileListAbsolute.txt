@@ -1,0 +1,11 @@
+E:\3.GitHub\CodeForces\2__A. Theatre Square\bin\Debug\netcoreapp2.2\2__A. Theatre Square.deps.json
+E:\3.GitHub\CodeForces\2__A. Theatre Square\bin\Debug\netcoreapp2.2\2__A. Theatre Square.runtimeconfig.json
+E:\3.GitHub\CodeForces\2__A. Theatre Square\bin\Debug\netcoreapp2.2\2__A. Theatre Square.runtimeconfig.dev.json
+E:\3.GitHub\CodeForces\2__A. Theatre Square\bin\Debug\netcoreapp2.2\2__A. Theatre Square.dll
+E:\3.GitHub\CodeForces\2__A. Theatre Square\bin\Debug\netcoreapp2.2\2__A. Theatre Square.pdb
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.csprojAssemblyReference.cache
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.csproj.CoreCompileInputs.cache
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.AssemblyInfoInputs.cache
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.AssemblyInfo.cs
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.dll
+E:\3.GitHub\CodeForces\2__A. Theatre Square\obj\Debug\netcoreapp2.2\2__A. Theatre Square.pdb

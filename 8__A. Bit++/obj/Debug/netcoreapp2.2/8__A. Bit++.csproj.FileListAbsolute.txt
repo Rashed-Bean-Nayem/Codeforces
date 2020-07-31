@@ -1,0 +1,11 @@
+E:\3.GitHub\Codeforces\8__A. Bit++\bin\Debug\netcoreapp2.2\8__A. Bit++.deps.json
+E:\3.GitHub\Codeforces\8__A. Bit++\bin\Debug\netcoreapp2.2\8__A. Bit++.runtimeconfig.json
+E:\3.GitHub\Codeforces\8__A. Bit++\bin\Debug\netcoreapp2.2\8__A. Bit++.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\8__A. Bit++\bin\Debug\netcoreapp2.2\8__A. Bit++.dll
+E:\3.GitHub\Codeforces\8__A. Bit++\bin\Debug\netcoreapp2.2\8__A. Bit++.pdb
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.dll
+E:\3.GitHub\Codeforces\8__A. Bit++\obj\Debug\netcoreapp2.2\8__A. Bit++.pdb

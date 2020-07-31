@@ -6,10 +6,12 @@ namespace _4__A._Team
     {
         static void Main(string[] args)
         {
+           again:
             int size = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-
+            
+            
 
             int[,] arr = new int[size, 3];
 
@@ -18,7 +20,20 @@ namespace _4__A._Team
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    arr[i, j] = Convert.ToInt32(Console.ReadLine());
+
+                    
+                   arr[i, j] = Convert.ToInt32(Console.ReadLine());
+
+
+                    if (arr[i, j] > 1)
+                    {
+
+                        Array.Clear(arr, 0, arr.Length);
+                        Console.WriteLine();
+                        Console.WriteLine("Try agin");
+                        Console.WriteLine();
+                        goto again;
+                    }
 
                 }
                 Console.WriteLine();
@@ -76,7 +91,38 @@ namespace _4__A._Team
             //Console.WriteLine(count);
             ////  return 0;
 
+            //it works;
 
+            //int n = int.Parse(Console.ReadLine());
+
+            //String[] lines = new string[n];
+            //int problemToSolve = 0;
+
+            //for (int i = 0; i <= n - 1; i++)
+            //{
+            //    lines[i] = Console.ReadLine();
+            //}
+
+            //for (int l = 0; l <= lines.Length - 1; l++)
+            //{
+            //    string[] views = new string[3];
+            //    for (int i = 0; i <= 2; i++)
+            //    {
+            //        views[i] = lines[l].Split(' ')[i];
+            //    }
+
+            //    int p = int.Parse(views[0]);
+            //    int v = int.Parse(views[1]);
+            //    int t = int.Parse(views[2]);
+
+            //    if (p + v + t >= 2)
+            //    {
+            //        problemToSolve++;
+            //    }
+
+
+            //}
+            //Console.WriteLine(problemToSolve);
 
 
 

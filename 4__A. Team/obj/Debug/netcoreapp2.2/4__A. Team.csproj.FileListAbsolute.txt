@@ -1,0 +1,11 @@
+E:\3.GitHub\Codeforces\4__A. Team\bin\Debug\netcoreapp2.2\4__A. Team.deps.json
+E:\3.GitHub\Codeforces\4__A. Team\bin\Debug\netcoreapp2.2\4__A. Team.runtimeconfig.json
+E:\3.GitHub\Codeforces\4__A. Team\bin\Debug\netcoreapp2.2\4__A. Team.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\4__A. Team\bin\Debug\netcoreapp2.2\4__A. Team.dll
+E:\3.GitHub\Codeforces\4__A. Team\bin\Debug\netcoreapp2.2\4__A. Team.pdb
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.dll
+E:\3.GitHub\Codeforces\4__A. Team\obj\Debug\netcoreapp2.2\4__A. Team.pdb

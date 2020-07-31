@@ -1,0 +1,11 @@
+E:\3.GitHub\Codeforces\6__A. String Task\bin\Debug\netcoreapp2.2\6__A. String Task.deps.json
+E:\3.GitHub\Codeforces\6__A. String Task\bin\Debug\netcoreapp2.2\6__A. String Task.runtimeconfig.json
+E:\3.GitHub\Codeforces\6__A. String Task\bin\Debug\netcoreapp2.2\6__A. String Task.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\6__A. String Task\bin\Debug\netcoreapp2.2\6__A. String Task.dll
+E:\3.GitHub\Codeforces\6__A. String Task\bin\Debug\netcoreapp2.2\6__A. String Task.pdb
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.dll
+E:\3.GitHub\Codeforces\6__A. String Task\obj\Debug\netcoreapp2.2\6__A. String Task.pdb

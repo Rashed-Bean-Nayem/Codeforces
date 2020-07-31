@@ -1,0 +1,11 @@
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\7__A. Domino piling\bin\Debug\netcoreapp2.2\7__A. Domino piling.deps.json
+E:\3.GitHub\Codeforces\7__A. Domino piling\bin\Debug\netcoreapp2.2\7__A. Domino piling.runtimeconfig.json
+E:\3.GitHub\Codeforces\7__A. Domino piling\bin\Debug\netcoreapp2.2\7__A. Domino piling.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\7__A. Domino piling\bin\Debug\netcoreapp2.2\7__A. Domino piling.dll
+E:\3.GitHub\Codeforces\7__A. Domino piling\bin\Debug\netcoreapp2.2\7__A. Domino piling.pdb
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.dll
+E:\3.GitHub\Codeforces\7__A. Domino piling\obj\Debug\netcoreapp2.2\7__A. Domino piling.pdb

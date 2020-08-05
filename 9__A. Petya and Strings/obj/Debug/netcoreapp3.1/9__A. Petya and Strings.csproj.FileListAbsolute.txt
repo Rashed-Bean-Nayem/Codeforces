@@ -1,0 +1,13 @@
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.exe
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.deps.json
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.runtimeconfig.json
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.dll
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\bin\Debug\netcoreapp3.1\9__A. Petya and Strings.pdb
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.dll
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.pdb
+E:\3.GitHub\Codeforces\9__A. Petya and Strings\obj\Debug\netcoreapp3.1\9__A. Petya and Strings.genruntimeconfig.cache

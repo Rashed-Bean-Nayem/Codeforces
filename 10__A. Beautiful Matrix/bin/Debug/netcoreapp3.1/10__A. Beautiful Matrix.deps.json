@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10__A. Beautiful Matrix/1.0.0": {
+        "runtime": {
+          "10__A. Beautiful Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10__A. Beautiful Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

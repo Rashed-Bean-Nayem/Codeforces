@@ -1,0 +1,13 @@
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.exe
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.deps.json
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.runtimeconfig.json
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.runtimeconfig.dev.json
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.dll
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\bin\Debug\netcoreapp3.1\11__A. Helpful Maths.pdb
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.csprojAssemblyReference.cache
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.AssemblyInfoInputs.cache
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.AssemblyInfo.cs
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.csproj.CoreCompileInputs.cache
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.dll
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.pdb
+E:\3.GitHub\Codeforces\11__A. Helpful Maths\obj\Debug\netcoreapp3.1\11__A. Helpful Maths.genruntimeconfig.cache

@@ -64,29 +64,6 @@ namespace _13__A._Football
                 Console.WriteLine("NO");
             }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //if (jk == 1)
-            //{
-            //    Console.WriteLine("Happy?n");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("oh no");
-            //}
         }
     }
 }

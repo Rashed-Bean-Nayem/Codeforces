@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.exe
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.deps.json
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.runtimeconfig.json
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.dll
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\bin\Debug\netcoreapp3.1\14__A. Stones on the Table.pdb
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.dll
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.pdb
+E:\2_GitHub\Codeforces\14__A. Stones on the Table\obj\Debug\netcoreapp3.1\14__A. Stones on the Table.genruntimeconfig.cache

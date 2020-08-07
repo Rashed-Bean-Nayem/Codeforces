@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.exe
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.deps.json
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.runtimeconfig.json
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.dll
+E:\2_GitHub\Codeforces\13__A. Football\bin\Debug\netcoreapp3.1\13__A. Football.pdb
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.dll
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.pdb
+E:\2_GitHub\Codeforces\13__A. Football\obj\Debug\netcoreapp3.1\13__A. Football.genruntimeconfig.cache

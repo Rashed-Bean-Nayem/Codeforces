@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.exe
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.deps.json
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.runtimeconfig.json
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.dll
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\bin\Debug\netcoreapp3.1\12__A. Word Capitalization.pdb
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.dll
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.pdb
+E:\2_GitHub\Codeforces\12__A. Word Capitalization\obj\Debug\netcoreapp3.1\12__A. Word Capitalization.genruntimeconfig.cache

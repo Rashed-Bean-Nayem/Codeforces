@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.exe
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.deps.json
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.runtimeconfig.json
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.dll
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\bin\Debug\netcoreapp3.1\15__A. Boy or Girl.pdb
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.dll
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.pdb
+E:\2_GitHub\Codeforces\15__A. Boy or Girl\obj\Debug\netcoreapp3.1\15__A. Boy or Girl.genruntimeconfig.cache

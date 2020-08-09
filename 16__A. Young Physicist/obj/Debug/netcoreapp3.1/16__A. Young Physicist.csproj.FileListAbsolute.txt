@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.exe
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.deps.json
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.runtimeconfig.json
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.dll
+E:\2_GitHub\Codeforces\16__A. Young Physicist\bin\Debug\netcoreapp3.1\16__A. Young Physicist.pdb
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.dll
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.pdb
+E:\2_GitHub\Codeforces\16__A. Young Physicist\obj\Debug\netcoreapp3.1\16__A. Young Physicist.genruntimeconfig.cache

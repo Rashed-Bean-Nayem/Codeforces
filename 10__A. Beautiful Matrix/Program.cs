@@ -14,15 +14,19 @@ namespace _10__A._Beautiful_Matrix
 
             for (int i = 0; i < 5; i++)
             {
+
+                string s = Console.ReadLine();
+                string[] values = s.Split(' ');
                 for (int j = 0; j < 5; j++)
                 {
-                    arr[i, j] = int.Parse(Console.ReadLine());
+                   
+                arr[i, j] = int.Parse(values[j]);
                 }
                 Console.WriteLine();
             }
 
 
-
+          
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -39,7 +43,7 @@ namespace _10__A._Beautiful_Matrix
 
 
 
-            if ((i_ < 2 && j_ <= 4)   || (i_ == 2 && j_ <= 2))
+            if ((i_ < 2 && j_ <= 4)   || (i_ == 2 && j_ < 2 ))
             {
 
                 arr[2, 2] = 1;
@@ -86,7 +90,7 @@ namespace _10__A._Beautiful_Matrix
                 Console.WriteLine(count);
             }
 
-            else
+            else if(j_ !=2)
             {
                 for (int i = 2; i < 5; i++)
                 {
@@ -125,6 +129,11 @@ namespace _10__A._Beautiful_Matrix
                 }
 
             rtrt2:
+                Console.WriteLine(count);
+            }
+            else
+            {
+          
                 Console.WriteLine(count);
             }
 

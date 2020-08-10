@@ -11,3 +11,16 @@ E:\3.GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Be
 E:\3.GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.dll
 E:\3.GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.pdb
 E:\3.GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.genruntimeconfig.cache
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.exe
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.deps.json
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.runtimeconfig.json
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.dll
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\bin\Debug\netcoreapp3.1\10__A. Beautiful Matrix.pdb
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.dll
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.pdb
+E:\2_GitHub\Codeforces\10__A. Beautiful Matrix\obj\Debug\netcoreapp3.1\10__A. Beautiful Matrix.genruntimeconfig.cache

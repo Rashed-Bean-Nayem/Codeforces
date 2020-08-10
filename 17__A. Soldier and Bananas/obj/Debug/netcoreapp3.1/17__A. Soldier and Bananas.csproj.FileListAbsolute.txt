@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.exe
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.deps.json
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.runtimeconfig.json
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.dll
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\bin\Debug\netcoreapp3.1\17__A. Soldier and Bananas.pdb
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.dll
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.pdb
+E:\2_GitHub\Codeforces\.git\17__A. Soldier and Bananas\obj\Debug\netcoreapp3.1\17__A. Soldier and Bananas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.exe
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.deps.json
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.runtimeconfig.json
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.dll
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\bin\Debug\netcoreapp3.1\18__A. Chat room.pdb
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.dll
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.pdb
+E:\2_GitHub\Codeforces\.git\18__A. Chat room\obj\Debug\netcoreapp3.1\18__A. Chat room.genruntimeconfig.cache

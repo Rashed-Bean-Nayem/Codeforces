@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "17__A. Soldier and Bananas/1.0.0": {
+        "runtime": {
+          "17__A. Soldier and Bananas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17__A. Soldier and Bananas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

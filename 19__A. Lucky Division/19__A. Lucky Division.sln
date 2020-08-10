@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19__A. Lucky Division", "19__A. Lucky Division.csproj", "{9D43BFB6-A565-464B-BD2E-6753343506CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D43BFB6-A565-464B-BD2E-6753343506CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D43BFB6-A565-464B-BD2E-6753343506CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D43BFB6-A565-464B-BD2E-6753343506CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D43BFB6-A565-464B-BD2E-6753343506CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655B8CD6-4497-4AC9-919D-508D05BAC6D7}
+	EndGlobalSection
+EndGlobal

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2_GitHub\\Codeforces\\.git\\19__A. Lucky Division\\19__A. Lucky Division.csproj",
+      "projectUniqueName": "E:\\2_GitHub\\Codeforces\\19__A. Lucky Division\\19__A. Lucky Division.csproj",
       "projectName": "19__A. Lucky Division",
-      "projectPath": "E:\\2_GitHub\\Codeforces\\.git\\19__A. Lucky Division\\19__A. Lucky Division.csproj",
+      "projectPath": "E:\\2_GitHub\\Codeforces\\19__A. Lucky Division\\19__A. Lucky Division.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "E:\\2_GitHub\\Codeforces\\.git\\19__A. Lucky Division\\obj\\",
+      "outputPath": "E:\\2_GitHub\\Codeforces\\19__A. Lucky Division\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

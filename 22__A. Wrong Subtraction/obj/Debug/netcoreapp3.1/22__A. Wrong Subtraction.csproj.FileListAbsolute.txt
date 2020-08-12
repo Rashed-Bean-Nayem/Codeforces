@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.exe
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.deps.json
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.runtimeconfig.json
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.dll
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\bin\Debug\netcoreapp3.1\22__A. Wrong Subtraction.pdb
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.dll
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.pdb
+E:\2_GitHub\Codeforces\22__A. Wrong Subtraction\obj\Debug\netcoreapp3.1\22__A. Wrong Subtraction.genruntimeconfig.cache

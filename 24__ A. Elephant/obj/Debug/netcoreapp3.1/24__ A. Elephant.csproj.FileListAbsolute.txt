@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.exe
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.deps.json
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.runtimeconfig.json
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.dll
+E:\2_GitHub\Codeforces\24__ A. Elephant\bin\Debug\netcoreapp3.1\24__ A. Elephant.pdb
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.dll
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.pdb
+E:\2_GitHub\Codeforces\24__ A. Elephant\obj\Debug\netcoreapp3.1\24__ A. Elephant.genruntimeconfig.cache

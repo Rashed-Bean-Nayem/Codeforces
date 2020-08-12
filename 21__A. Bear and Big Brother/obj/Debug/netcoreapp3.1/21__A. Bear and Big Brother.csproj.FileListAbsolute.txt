@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.exe
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.deps.json
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.runtimeconfig.json
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.dll
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\bin\Debug\netcoreapp3.1\21__A. Bear and Big Brother.pdb
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.dll
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.pdb
+E:\2_GitHub\Codeforces\21__A. Bear and Big Brother\obj\Debug\netcoreapp3.1\21__A. Bear and Big Brother.genruntimeconfig.cache

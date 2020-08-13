@@ -29,10 +29,6 @@ namespace _24___A._Elephant
                 Console.WriteLine(count+1);
             }
 
-
-
-
-
         }
     }
 }

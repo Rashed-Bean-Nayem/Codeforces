@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.exe
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.deps.json
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.runtimeconfig.json
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.dll
+E:\2_GitHub\Codeforces\28__A. Word\bin\Debug\netcoreapp3.1\28__A. Word.pdb
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.dll
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.pdb
+E:\2_GitHub\Codeforces\28__A. Word\obj\Debug\netcoreapp3.1\28__A. Word.genruntimeconfig.cache

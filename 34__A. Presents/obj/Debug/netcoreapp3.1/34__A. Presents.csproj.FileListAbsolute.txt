@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.exe
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.deps.json
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.runtimeconfig.json
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.dll
+E:\2_GitHub\Codeforces\34__A. Presents\bin\Debug\netcoreapp3.1\34__A. Presents.pdb
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.dll
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.pdb
+E:\2_GitHub\Codeforces\34__A. Presents\obj\Debug\netcoreapp3.1\34__A. Presents.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "26__A. Nearly Lucky Number/1.0.0": {
+        "runtime": {
+          "26__A. Nearly Lucky Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "26__A. Nearly Lucky Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

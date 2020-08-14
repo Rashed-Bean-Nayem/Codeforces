@@ -1,0 +1,13 @@
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.exe
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.deps.json
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.runtimeconfig.json
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.runtimeconfig.dev.json
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.dll
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\bin\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.pdb
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.csprojAssemblyReference.cache
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.AssemblyInfoInputs.cache
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.AssemblyInfo.cs
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.csproj.CoreCompileInputs.cache
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.dll
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.pdb
+E:\2_GitHub\cSharp_raw\26__A. Nearly Lucky Number\obj\Debug\netcoreapp3.1\26__A. Nearly Lucky Number.genruntimeconfig.cache

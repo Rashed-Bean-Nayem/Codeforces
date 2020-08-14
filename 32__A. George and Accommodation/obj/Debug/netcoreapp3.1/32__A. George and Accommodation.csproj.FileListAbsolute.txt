@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.exe
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.deps.json
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.runtimeconfig.json
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.dll
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\bin\Debug\netcoreapp3.1\32__A. George and Accommodation.pdb
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.dll
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.pdb
+E:\2_GitHub\Codeforces\32__A. George and Accommodation\obj\Debug\netcoreapp3.1\32__A. George and Accommodation.genruntimeconfig.cache

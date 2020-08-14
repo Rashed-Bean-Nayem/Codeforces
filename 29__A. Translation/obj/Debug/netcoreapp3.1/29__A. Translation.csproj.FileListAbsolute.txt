@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.exe
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.deps.json
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.runtimeconfig.json
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.dll
+E:\2_GitHub\Codeforces\29__A. Translation\bin\Debug\netcoreapp3.1\29__A. Translation.pdb
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.dll
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.pdb
+E:\2_GitHub\Codeforces\29__A. Translation\obj\Debug\netcoreapp3.1\29__A. Translation.genruntimeconfig.cache

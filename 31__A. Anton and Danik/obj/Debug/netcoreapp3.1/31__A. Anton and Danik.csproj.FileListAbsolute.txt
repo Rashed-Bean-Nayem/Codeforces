@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.exe
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.deps.json
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.runtimeconfig.json
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.dll
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\bin\Debug\netcoreapp3.1\31__A. Anton and Danik.pdb
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.dll
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.pdb
+E:\2_GitHub\Codeforces\31__A. Anton and Danik\obj\Debug\netcoreapp3.1\31__A. Anton and Danik.genruntimeconfig.cache

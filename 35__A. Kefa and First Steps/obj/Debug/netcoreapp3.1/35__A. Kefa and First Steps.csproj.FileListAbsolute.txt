@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.exe
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.deps.json
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.runtimeconfig.json
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.dll
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\bin\Debug\netcoreapp3.1\35__A. Kefa and First Steps.pdb
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.dll
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.pdb
+E:\2_GitHub\Codeforces\35__A. Kefa and First Steps\obj\Debug\netcoreapp3.1\35__A. Kefa and First Steps.genruntimeconfig.cache

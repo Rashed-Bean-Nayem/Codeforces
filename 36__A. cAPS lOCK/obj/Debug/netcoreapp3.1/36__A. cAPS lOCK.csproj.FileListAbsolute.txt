@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.exe
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.deps.json
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.runtimeconfig.json
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.dll
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\bin\Debug\netcoreapp3.1\36__A. cAPS lOCK.pdb
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.dll
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.pdb
+E:\2_GitHub\Codeforces\36__A. cAPS lOCK\obj\Debug\netcoreapp3.1\36__A. cAPS lOCK.genruntimeconfig.cache

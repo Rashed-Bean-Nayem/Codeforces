@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.exe
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.deps.json
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.runtimeconfig.json
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.dll
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\bin\Debug\netcoreapp3.1\37__A. Vanya and Fence.pdb
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.dll
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.pdb
+E:\2_GitHub\Codeforces\37__A. Vanya and Fence\obj\Debug\netcoreapp3.1\37__A. Vanya and Fence.genruntimeconfig.cache

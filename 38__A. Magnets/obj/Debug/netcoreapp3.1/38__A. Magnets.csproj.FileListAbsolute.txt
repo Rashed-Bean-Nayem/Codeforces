@@ -1,0 +1,13 @@
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.exe
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.deps.json
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.runtimeconfig.json
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.runtimeconfig.dev.json
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.dll
+E:\2_GitHub\Codeforces\38__A. Magnets\bin\Debug\netcoreapp3.1\38__A. Magnets.pdb
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.csprojAssemblyReference.cache
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.AssemblyInfoInputs.cache
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.AssemblyInfo.cs
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.csproj.CoreCompileInputs.cache
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.dll
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.pdb
+E:\2_GitHub\Codeforces\38__A. Magnets\obj\Debug\netcoreapp3.1\38__A. Magnets.genruntimeconfig.cache

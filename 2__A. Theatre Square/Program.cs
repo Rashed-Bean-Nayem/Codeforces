@@ -6,15 +6,16 @@ namespace _2__A._Theatre_Square
     {
         static void Main(string[] args)
         {
-            int rec1 = Convert.ToInt32(Console.ReadLine());
-            int rec2 = Convert.ToInt32(Console.ReadLine());
-            int sqrGra = Convert.ToInt32(Console.ReadLine());
+
+            string input = Console.ReadLine();
+            string[] values = input.Split(' ');
+
+            long rec1 = Convert.ToInt64(values[0]);
+            long rec2 = Convert.ToInt64(values[1]);
+            long sqrGra = Convert.ToInt64(values[2]);
 
 
-            //uint rec1 = Convert.ToUInt32(Console.ReadLine());
-            //uint rec2 = Convert.ToUInt32(Console.ReadLine());
-            //uint sqrGra = Convert.ToUInt32(Console.ReadLine());
-            int a = 0, b = 0;
+            long a = 0, b = 0;
 
             if (rec1 % sqrGra == 0)
             {
@@ -36,33 +37,6 @@ namespace _2__A._Theatre_Square
             }
 
             Console.WriteLine(a * b);
-
-//# include<stdio.h>
-//            main(){
-//                long long int x, y, z, a, b;
-//                scanf("%lld%lld%lld", &x, &y, &z);
-//                if (x % z == 0)
-//                {
-//                    a = (x / z);
-//                }
-//                else if (x % z != 0)
-//                {
-//                    a = (x / z) + 1;
-//                }
-//                if (y % z == 0)
-//                {
-//                    b = (y / z);
-//                }
-//                else if (y % z != 0)
-//                {
-//                    b = (y / z) + 1;
-//                }
-
-
-
-
-//                printf("%lld\n", a * b);
-//            }
 
 
         }

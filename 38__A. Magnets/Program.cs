@@ -1,50 +1,38 @@
 ﻿using System;
 
-namespace _38__A._Magnets
+class program 
 {
-    class Program
+     static int countGroups(int n, int[] m)
     {
-        static void Main(string[] args)
+
+        int count = 1;
+
+        for (int i = 1; i < n; i++)
+
+             if (m[i] != m[i - 1]) 
+            {
+                count++;
+            }
+              
+
+        return count;
+    }
+
+
+    public static void Main()
+    {
+        int n = int.Parse(Console.ReadLine());
+
+        int[] m = new int[n];
+
+        for (int i = 0; i < m.Length; i++)
         {
-            long input = long.Parse(Console.ReadLine());
+            m[i] = int.Parse(Console.ReadLine());
 
-            double[] newArray = new double[100000];
-
-            //for (long i = 0; i < newArray.Length; i++)
-            //{
-            //    newArray[i] = long.Parse(Console.ReadLine());
-                
-            //}
-
-            long kk = 0;
-
-            while (kk<newArray.Length)
-            {
-                newArray[kk] = Convert.ToDouble(Console.ReadLine());
-                kk++;
-            }
-
-            long counter = 1;
-            long n = 1;
-            long x = 0;
-            go:
-            for (long i =x; i < newArray.Length; i++)
-            {
-                for (long j = n; j < newArray.Length; j++)
-                {
-                    if (newArray[i]!=newArray[j])
-                    {
-                        counter++;
-                        n = j + 1;
-                        x = j;
-                        goto go;
-                    }
-
-                }
-            }
-
-
-            Console.WriteLine(counter);
         }
+
+        
+
+        Console.WriteLine(countGroups(n, m));
     }
 }

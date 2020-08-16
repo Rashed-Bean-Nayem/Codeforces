@@ -6,11 +6,13 @@ namespace _7__A._Domino_piling
     {
         static void Main(string[] args)
         {
-            int n, k;
+          
+            string input = Console.ReadLine();
+            string[] values = input.Split(' ');
 
 
-            n = Convert.ToInt32(Console.ReadLine());
-            k = Convert.ToInt32(Console.ReadLine());
+            int n = Convert.ToInt32(values[0]);
+            int k = Convert.ToInt32(values[1]);
 
             Console.WriteLine((n * k) / 2);
         }

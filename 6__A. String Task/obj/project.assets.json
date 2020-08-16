@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\3.GitHub\\Codeforces\\6__A. String Task\\6__A. String Task.csproj",
+      "projectUniqueName": "E:\\2_GitHub\\Codeforces\\6__A. String Task\\6__A. String Task.csproj",
       "projectName": "6__A. String Task",
-      "projectPath": "E:\\3.GitHub\\Codeforces\\6__A. String Task\\6__A. String Task.csproj",
+      "projectPath": "E:\\2_GitHub\\Codeforces\\6__A. String Task\\6__A. String Task.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "E:\\3.GitHub\\Codeforces\\6__A. String Task\\obj\\",
+      "outputPath": "E:\\2_GitHub\\Codeforces\\6__A. String Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

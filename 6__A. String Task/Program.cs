@@ -11,7 +11,7 @@ namespace _6__A._String_Task
         Come:
             for (int i = 0; i < input.Length; i++)
             {
-                if (input[i] == 'a' || input[i] == 'e' || input[i] == 'i' || input[i] == 'o' || input[i] == 'u')
+                if (input[i] == 'a' || input[i] == 'e' || input[i] == 'i' || input[i] == 'o' || input[i] == 'u' || input[i] == 'y')
                 {
                     input  = input.Remove(input.IndexOf(input[i]), 1);
                     //input = jk;
